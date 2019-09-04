@@ -4,7 +4,7 @@
   buildah
 </h1>
 
-<p align="center"><b>This is the snap for  buildah, a tool that facilitates building OCI images.</p>
+<p align="center"><b>This is a snap for buildah, a tool that facilitates building OCI images.</p>
 
 ## Install Snapd
 
